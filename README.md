@@ -17,5 +17,5 @@ This project does not rely on machine learning libraries like `scikit-learn` for
 
 ---
 
-## 📂 Project Structure
+
 
